@@ -3,3 +3,5 @@ def twodijit():
     tens=dijit//10
     num=dijit%10
     return (f'{num}{tens}')
+
+twodijit()
